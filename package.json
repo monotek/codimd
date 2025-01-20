@@ -122,7 +122,7 @@
     "copy-webpack-plugin": "~4.5.2",
     "css-loader": "~1.0.0",
     "dictionary-de": "^2.0.3",
-    "dictionary-de-at": "^2.0.3",
+    "dictionary-de-at": "^3.0.0",
     "dictionary-de-ch": "^2.0.3",
     "dictionary-en-gb": "^2.2.2",
     "doctoc": "~1.4.0",
