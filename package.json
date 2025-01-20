@@ -113,7 +113,7 @@
     "@susisu/mte-kernel": "^2.1.0",
     "acorn": "~6.1.1",
     "babel-core": "~6.26.3",
-    "babel-loader": "~7.1.4",
+    "babel-loader": "~9.2.1",
     "babel-plugin-transform-runtime": "~6.23.0",
     "babel-preset-env": "~1.7.0",
     "babel-runtime": "~6.26.0",
