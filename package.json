@@ -87,7 +87,7 @@
     "passport-twitter": "~1.0.4",
     "passport.socketio": "~3.7.0",
     "pg": "~8.8.0",
-    "pg-hstore": "~2.3.2",
+    "pg-hstore": "~2.3.4",
     "prom-client": "^11.0.0",
     "prometheus-api-metrics": "^2.2.5",
     "randomcolor": "~0.5.4",
