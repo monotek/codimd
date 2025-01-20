@@ -13,7 +13,7 @@ jobs:
         node-version: [14.x, 16.x]
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
 
     # from https://stackoverflow.com/a/69649733
     - name: Reconfigure git to use HTTP authentication
@@ -43,7 +43,7 @@ jobs:
     if: github.ref == 'refs/heads/master' || github.event.pull_request
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - uses: actions/setup-node@v2
       name: Use Node.js 14
       with:
